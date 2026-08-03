@@ -1,0 +1,11 @@
+customer_id,customer_name,city,phone,email,start_date,end_date,is_current
+101,Aravinth,Chennai,9876543210,aravinth@gmail.com,2024-01-01,,TRUE
+102,Priya,Bangalore,9123456780,priya@gmail.com,2024-01-01,,TRUE
+103,Rahul,Hyderabad,9988776655,rahul@gmail.com,2024-01-01,,TRUE
+104,Meena,Coimbatore,9876501234,meena@gmail.com,2024-01-01,,TRUE
+105,Karthik,Madurai,9000011111,karthik@gmail.com,2024-01-01,,TRUE
+106,Divya,Salem,9888811111,divya@gmail.com,2024-01-01,,TRUE
+107,Vijay,Erode,9777711111,vijay@gmail.com,2024-01-01,,TRUE
+108,Anitha,Trichy,9666611111,anitha@gmail.com,2024-01-01,,TRUE
+109,Suresh,Tirunelveli,9555511111,suresh@gmail.com,2024-01-01,,TRUE
+110,Kavya,Puducherry,9444411111,kavya@gmail.com,2024-01-01,,TRUE
